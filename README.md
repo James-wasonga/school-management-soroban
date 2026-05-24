@@ -4,6 +4,12 @@ A decentralized School Management System smart contract built on the Stellar Sor
 This contract enables schools to register students, manage student records, process fee payments, and track payment history securely on-chain.
 
 ---
+## 📦 Deployed Contract
+
+**Contract Address:**  
+`CBZRBN6QSJYPET52EPUHXMVUL47ZMC3354TVDNUOBPWQXZSI422T3777`
+
+---
 
 # Features
 
